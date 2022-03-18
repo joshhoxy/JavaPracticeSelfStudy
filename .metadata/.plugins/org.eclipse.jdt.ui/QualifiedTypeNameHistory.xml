@@ -4,4 +4,8 @@
     <fullyQualifiedTypeName name="java.util.Calendar"/>
     <fullyQualifiedTypeName name="sec02.wrapup01.Service.Aservice"/>
     <fullyQualifiedTypeName name="sec02.wrapup01.Service.MemberService"/>
+    <fullyQualifiedTypeName name="sec01.exam01.RemoteControl"/>
+    <fullyQualifiedTypeName name="java.util.Timer"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java.awt.Toolkit"/>
 </qualifiedTypeNameHistroy>
